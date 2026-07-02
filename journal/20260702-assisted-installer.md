@@ -16,4 +16,8 @@
 ## Operate
 <img width="1281" height="738" alt="image" src="https://github.com/user-attachments/assets/b65a726a-0311-4d1f-a4dd-81730dd1541b" />
 
+## Scripted installation?
+Although installing from the console might work, I more like to try to install based on scripts or config files.
+How to do this?
 
+## 
