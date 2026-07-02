@@ -20,4 +20,6 @@
 Although installing from the console might work, I more like to try to install based on scripts or config files.
 How to do this?
 
-## 
+## Is ansible an option?
+https://docs.ansible.com/projects/ansible/latest/command_guide/cheatsheet.html  
+https://docs.ansible.com/projects/ansible/latest/cli/ansible-vault.html#view  
