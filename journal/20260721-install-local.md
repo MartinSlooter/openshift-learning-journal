@@ -27,3 +27,10 @@ crc config view
 
 crc setup
 ```
+
+## Starting OpenShift Local
+```bash
+crc start -p ~/Downloads/pull-secret
+```
+
+
