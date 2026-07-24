@@ -1,4 +1,15 @@
-# Installing
+# Installing Kubernetes on Ubuntu
+
+## Goal
+Is to understand understanding the installation.
+
+## What I learned
+- Troubleshooting the installation;
+
+## Progress
+Installed the cluster software. However initializing the cluster failed.
+
+## Installing
 
 ## k8s components
 Then I install all kubernetes components.
