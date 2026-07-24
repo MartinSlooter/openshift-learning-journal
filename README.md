@@ -12,3 +12,6 @@ openshift-learning-journal/
 ├── troubleshooting/  
 ├── diagrams/  
 └── resources/  
+
+This is a learning journal for OpenShift and Kubernetes. The first few journal entries may be some try outs on the format.
+It will crystal out during the journey.
