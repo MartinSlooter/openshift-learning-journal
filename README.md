@@ -1,5 +1,5 @@
 # openshift-learning-journal
-Journaling learning OpenShift
+Journaling learning OpenShift and Kubernetes
 
 <img width="84" height="86" alt="image" src="https://github.com/user-attachments/assets/d439af52-4125-46de-85b6-0f7e654483bb" />
 <img width="86" height="86" alt="image" src="https://github.com/user-attachments/assets/ce706eba-056c-4e54-a724-5b52eaa47113" />
