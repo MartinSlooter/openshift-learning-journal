@@ -1,10 +1,12 @@
-# Installing Kubernetes on Ubuntu
+# Installing Kubernetes on Fedora
 
 ## Goal
 Is to understand understanding the installation.
 
 ## What I learned
 - Troubleshooting the installation;
+- Unfortunately solutions did not work;
+- Starting over with same distro as guide I am following.
 
 ## Progress
 Installed the cluster software. However initializing the cluster failed.
