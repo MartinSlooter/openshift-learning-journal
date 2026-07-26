@@ -12,6 +12,9 @@ flowchart
   B -->|No| C(Enter name)
   C --> D{Accept conditions?}
   D -->|No| A
+  D -->|Yes| E(Send email with link)
+  B -->|Yes| E
+  E --> End
 ```
 
 ## Export to pdf
