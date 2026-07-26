@@ -121,5 +121,3 @@ kubectl get pods -A
 - Keep at least the last 2–3 etcd snapshots.
 
 ---
-
-Would you like me to also give you a version of this procedure specifically for a **single-node** cluster (simpler) or a **multi-node** cluster?
